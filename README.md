@@ -34,7 +34,7 @@ The data analysis was performed using the following steps:
 1. Rename the 6 columns that correspond to the means and standard deviations.
 
 G. Project Task 5 - create a second tidy data set with the averages of each subject.
-a. Create a subset with the subjectID, activity_label and the three mean variables.
-a.	b. Export this data frame to tidyData2.txt.  Do not include the data frame index numbers.
+* a. Create a subset with the subjectID, activity_label and the three mean variables.
+* b. Export this data frame to tidyData2.txt.  Do not include the data frame index numbers.
 
 
